@@ -8,7 +8,7 @@
 ![](https://komarev.com/ghpvc/?username=AdityasWorks&color=brightgreen)
 
 - 🔭 Focusing on Web3
-- 🌱 Trying to become an expert in Blockchain development ❤
+- 🌱 Trying to become an expert in Blockchain development 
 - 💻 I love designing and video editing.
 - 📰 Reading tech documentation whenever possible.
 - ⚡ Fun fact: Good design can make even a bad product sell.

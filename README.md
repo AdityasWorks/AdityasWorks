@@ -51,17 +51,6 @@
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 
-
-### My Github Stats:
-
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AdityasWorks&show_icons=true&include_all_commits=true&theme=nightowl&hide_border=true" alt="Aditya's GitHub status" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityasWorks&theme=nightowl" alt="AdityasWorks" />
-
-
-
 ### Top Used Languages:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityasWorks&layout=compact&theme=yeblu&hide_border=true&&langs_count=8" />

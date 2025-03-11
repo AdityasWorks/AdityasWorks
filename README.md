@@ -7,7 +7,7 @@
 
 ![](https://komarev.com/ghpvc/?username=AdityasWorks&color=brightgreen)
 
-- 🔭 Currently learning AI/ML
+- 🔭 Currently learning AI/ML and FullStack
 - 🌱 Trying to become an expert in Blockchain development 
 - 💻 I love designing and video editing.
 - 📰 Reading tech documentation whenever possible.

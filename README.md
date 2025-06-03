@@ -7,9 +7,10 @@
 
 ![](https://komarev.com/ghpvc/?username=AdityasWorks&color=brightgreen)
 
-- 🔭 Currently learning Java and Springboot
-- 🌱 Trying to become an expert in Blockchain development 
-- 💻 I love designing and video editing.
+- 🔭 Currently learning Java and Spring Boot
+- 🧪 Exploring the world of QA and software testing
+- 🌐 On a journey to become an expert in Blockchain development
+- 🎨 Passionate about design and creativity — from visuals to concepts, I enjoy making things look and feel right
 - ⚡ Fun fact: Good design can make even a bad product sell.
 
 

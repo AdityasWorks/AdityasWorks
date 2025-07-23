@@ -7,16 +7,19 @@
 
 ![](https://komarev.com/ghpvc/?username=AdityasWorks&color=brightgreen)
 
-- 🔭 Currently learning Java and Spring Boot
-- 🧪 Exploring the world of QA and software testing
-- 🌐 On a journey to become an expert in Blockchain development
-- 🎨 Passionate about design and creativity — from visuals to concepts, I enjoy making things look and feel right
+Final-year Computer Science student and developer, exploring the intersection of technology and creative problem-solving.
+
+- 🔭 Interested in the challenges of building modern software applications.
+- 💡 Passionate about creating scalable and user-friendly digital experiences.
+- ⛓️ Applying blockchain for security, with research published in **[IEEE](https://ieeexplore.ieee.org/document/10934454)**.
+- 🎨 Passionate about design and creativity — from visuals to concepts, I enjoy making things look and feel right.
 - ⚡ Fun fact: Good design can make even a bad product sell.
 
 
 
 ### Connect With Me:
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://adityayadav.vercel.app/) 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityayadav09/) 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aadiflyaf)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heyaadi2@gmail.com)
